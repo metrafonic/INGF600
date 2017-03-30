@@ -11,7 +11,7 @@ double calc_f(double x) {
 
 int main() {
 
-  double x0 = 12.7;
+  double x0 = 15.0;
   
   double y = calc_f(x0);
 
