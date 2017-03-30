@@ -20,6 +20,9 @@ int main() {
   
   double y = calc_f(x0);
 
+  double x1 = 3.0;
+  double y1 = calc_f(x1);
+
   printf("%f\n", y);
 
   
