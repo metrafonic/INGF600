@@ -11,7 +11,9 @@ double calc_f(double x) {
 
 int main() {
 
-  double y = calc_f(12.7);
+  double x0 = 12.7;
+  
+  double y = calc_f(x0);
 
   printf("%f\n", y);
 
