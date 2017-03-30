@@ -11,6 +11,11 @@ double calc_f(double x) {
 
 int main() {
 
+  double z = 9.1;
+  double w = calc_f(z);
+
+
+
   double x0 = 15.0;
   
   double y = calc_f(x0);
