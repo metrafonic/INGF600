@@ -23,7 +23,7 @@ int main() {
   double x1 = 3.0;
   double y1 = calc_f(x1);
 
-  printf("%f %f\n", y, y1);
+  printf("%f %f %f\n", y, y1, w);
 
   
 }
